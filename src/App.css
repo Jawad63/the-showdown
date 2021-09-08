@@ -1,3 +1,9 @@
+body {
+  background: url(/src/img/pic3.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .App {
   text-align: center;
 }
